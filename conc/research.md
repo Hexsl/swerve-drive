@@ -32,10 +32,10 @@
 
 * With all of this in mind, committing to Swerve will be very time consuming, and will require a lot of dedication.
 
-# What is Swerve Drive?
+# What Is Swerve Drive?
 
 Swerve drive uses traditional wheels operated by two motors per module independently to produce non-holonomic motion. One motor controls wheel rolling, while the other controls rotation when turning.
 
-# What is Mecanum?
+# What Is Mecanum?
 
 Holonomic drivetrain operated by using Mecanum wheels that allow for the robot to have omnidirectional movement without needing the robot to turn. The Mecanum wheels are designed with rollers that permit such motion.
